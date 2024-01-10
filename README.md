@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="your-profile-image-url" alt="Jayadhanya" width="200"/>
-</p>
 
 # Hey there! 💖✨
 
