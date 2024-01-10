@@ -19,7 +19,3 @@ I'm Jayadhanya, a computer science student diving into the enchanting world of c
 Feel free to explore my enchanting projects and repositories. Let's create codes together! 🌟💻
 
 </br>
-
-<p align="center">
-  <img src="your-favorite-magical-gif-url" alt="Magical Coding GIF" width="400"/>
-</p>
