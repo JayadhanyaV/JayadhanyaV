@@ -1,13 +1,13 @@
 
 # Hey there! 💖✨
 
-I'm Jayadhanya, a computer science student diving into the enchanting world of code and tech. Welcome to my coding world! 🌈🚀
+I'm Jayadhanya, a computer science student diving into the world of code and tech. Welcome to my coding world! 🌈🚀
 
 ## 🌟 About Me
 - 🎀 A Computer Science (Bioinformatics) student
-- 📚 An ambitious student learning at UTM
+- 📚 An ambitious student learning at UTM, JB
 - 💻 I'm fluent in languages like Java, Python, and C++.
-- 🌟 Dreaming of contributing to enchanting open-source projects
+- 🌟 Aspire to contribute widely in open-source projects
 
 ## 🌈 Skills
 - **Languages:** Java, Python, C++ , basics of HTML
