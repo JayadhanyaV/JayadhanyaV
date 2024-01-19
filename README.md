@@ -16,6 +16,6 @@ I'm Jayadhanya, a computer science student diving into the enchanting world of c
 ## 🌸 Let's Connect!
 - 💌 Email: jayadhanya30@gmail.com
 
-Feel free to explore my enchanting projects and repositories. Let's create codes together! 🌟💻
+Feel free to explore my projects and repositories. Let's create codes together! 🌟💻
 
 </br>
