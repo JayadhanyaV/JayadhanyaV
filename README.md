@@ -9,13 +9,11 @@ I'm Jayadhanya, a computer science student diving into the world of code and tec
 - 💻 I'm fluent in languages like Java, Python, and C++.
 - 🌟 Aspire to contribute widely in open-source projects
 
+## Awards and Certificates 🏆📜
+- https://publuu.com/flip-book/377727/858452
+
 ## 🌈 Skills
-- **Languages & Tools:**
-  - :snake: Python
-  - :html5: HTML5
-  - :css3: CSS3
-  - :javascript: JavaScript
-  - :git: Git
+- [![Languages & Tools](https://skillicons.dev/icons?i=js,html,css,python,vscode)](https://skillicons.dev)
 
 ## 🌸 Let's Connect!
 - 💌 Email: jayadhanya30@gmail.com
