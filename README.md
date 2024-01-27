@@ -11,11 +11,11 @@ I'm Jayadhanya, a computer science student diving into the world of code and tec
 
 ## 🌈 Skills
 - **Languages & Tools:**
-- :python: Python
-- :html5: HTML5
-- :css3: CSS3
-- :javascript: JavaScript
-- :git: Git
+  - :snake: Python
+  - :html5: HTML5
+  - :css3: CSS3
+  - :javascript: JavaScript
+  - :git: Git
 
 ## 🌸 Let's Connect!
 - 💌 Email: jayadhanya30@gmail.com
