@@ -11,7 +11,7 @@ I'm Jayadhanya, a computer science student diving into the world of code and tec
 
 ## 🌈 Skills
 - **Languages:**
-- :Java: , :Python: , :Css: , :html: 
+- :Java: :Python: :Css: :html: 
 - **Tools:** VSCode, Dev C++, JGrasp, Thonny
 
 ## 🌸 Let's Connect!
