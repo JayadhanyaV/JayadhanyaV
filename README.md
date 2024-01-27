@@ -10,9 +10,12 @@ I'm Jayadhanya, a computer science student diving into the world of code and tec
 - 🌟 Aspire to contribute widely in open-source projects
 
 ## 🌈 Skills
-- **Languages:**
-- :Java: :Python: :Css: :html: 
-- **Tools:** VSCode, Dev C++, JGrasp, Thonny
+- **Languages & Tools:**
+- :python: Python
+- :html5: HTML5
+- :css3: CSS3
+- :javascript: JavaScript
+- :git: Git
 
 ## 🌸 Let's Connect!
 - 💌 Email: jayadhanya30@gmail.com
