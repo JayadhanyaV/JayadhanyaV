@@ -1,7 +1,7 @@
 
 # Hey there! 💖✨
 
-I'm Jayadhanya, a computer science student diving into the world of code and tech. Welcome to my coding world! 🌈🚀
+I'm Jayadhanya, a computer science student diving into the world of code and tech. Welcome to my coding world! 🚀
 
 ## 🌟 About Me
 - 🎀 A Computer Science (Bioinformatics) student
