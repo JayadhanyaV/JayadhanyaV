@@ -18,6 +18,6 @@ I'm Jayadhanya, a computer science student diving into the world of code and tec
 ## 🌸 Let's Connect!
 - 💌 Email: jayadhanya30@gmail.com
 
-Feel free to explore my projects and repositories. Let's create codes together! 🌟💻
+Feel free to explore my projects and repositories 🌟💻
 
 </br>
